@@ -49,15 +49,12 @@ inquirer.prompt([{
 
 function actionChoices() {
 inquirer.prompt([
-    {   type: "list",
+    {   type: "cofirmt",
         name: "choices",
-        message: "What would you like to do?",
-        choices:["Buy Products", "Exit"]
+        message: "Would you like to buy anything?",
     }
-]).then(function(choice){
-    // Establishes how the action works after the input choice is made
-    var action = choice.action;
-    console.log(choice.action);
+]).then(function(){
+  
 });
 
 }
