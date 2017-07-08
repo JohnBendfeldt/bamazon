@@ -108,7 +108,7 @@ function purchase() {
 						connection.end();
 					})
 				} else {
-					console.log('Sorry, there is not enough product in stock, your order can not be placed as is.');
+					console.log('Insufficient Quantity!');
 			
 					displayWares();
 				}
