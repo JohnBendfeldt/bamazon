@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JohnBendfeldt/bamazon/issues"
   },
-  "homepage": "https://github.com/JohnBendfeldt/bamazon#readme"
+  "homepage": "https://github.com/JohnBendfeldt/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.1.1",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {}
 }
