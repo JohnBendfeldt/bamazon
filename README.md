@@ -1,4 +1,6 @@
 # bamazon
+First, make sure you are in the correct directory after you have cloned or downloaded this repo.
+
 To get started on the app by first by typing in npm install in the terminal. 
 
 Or you can npm install console.table, inquirer, mysql. 
