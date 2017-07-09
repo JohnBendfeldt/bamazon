@@ -14,3 +14,5 @@ To initiate the app in the command line make sure you are in the directory and t
 The app will run and prompt you on what to do. 
 
 Enjoy and happy shopping!
+
+PS - If you need to see additional help there are screenshots of the app in action.
